@@ -1,0 +1,27 @@
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\bin\Debug\OiMundo.exe.config
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\bin\Debug\OiMundo.exe
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\bin\Debug\OiMundo.pdb
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\obj\Debug\OiMundo.csprojResolveAssemblyReference.cache
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\obj\Debug\OiMundo.Form1.resources
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\obj\Debug\OiMundo.Properties.Resources.resources
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\obj\Debug\OiMundo.csproj.GenerateResource.Cache
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\obj\Debug\OiMundo.exe
+c:\users\arthu\documents\visual studio 2015\Projects\OiMundo\OiMundo\obj\Debug\OiMundo.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\bin\Debug\OiMundo.exe.config
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\obj\Debug\OiMundo.exe
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\obj\Debug\OiMundo.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\bin\Debug\OiMundo.exe
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\bin\Debug\OiMundo.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\obj\Debug\OiMundo.csprojResolveAssemblyReference.cache
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\obj\Debug\OiMundo.Form1.resources
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\obj\Debug\OiMundo.Properties.Resources.resources
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 3.5\OiMundo\OiMundo\obj\Debug\OiMundo.csproj.GenerateResource.Cache
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\bin\Debug\OiMundo.exe.config
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\obj\Debug\OiMundo.exe
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\obj\Debug\OiMundo.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\bin\Debug\OiMundo.exe
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\bin\Debug\OiMundo.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\obj\Debug\OiMundo.csprojResolveAssemblyReference.cache
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\obj\Debug\OiMundo.Form1.resources
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\obj\Debug\OiMundo.Properties.Resources.resources
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 4.3\OiMundo\OiMundo\obj\Debug\OiMundo.csproj.GenerateResource.Cache

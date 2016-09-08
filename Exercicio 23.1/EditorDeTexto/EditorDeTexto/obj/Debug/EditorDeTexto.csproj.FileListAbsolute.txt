@@ -1,0 +1,18 @@
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\Caelum.EditorDeTexto.Form1.resources
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\Caelum.EditorDeTexto.Properties.Resources.resources
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+c:\users\arthu\documents\visual studio 2015\Projects\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\obj\Debug\Caelum.EditorDeTexto.Form1.resources
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\obj\Debug\Caelum.EditorDeTexto.Properties.Resources.resources
+C:\Users\arthu\Documents\Visual Studio 2015\Projects\Exercicio 23.1\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache

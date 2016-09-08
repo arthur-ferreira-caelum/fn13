@@ -1,0 +1,6 @@
+c:\users\arthu\documents\visual studio 2015\Projects\TextoNoTerminal\TextoNoTerminal\bin\Debug\TextoNoTerminal.exe.config
+c:\users\arthu\documents\visual studio 2015\Projects\TextoNoTerminal\TextoNoTerminal\bin\Debug\TextoNoTerminal.exe
+c:\users\arthu\documents\visual studio 2015\Projects\TextoNoTerminal\TextoNoTerminal\bin\Debug\TextoNoTerminal.pdb
+c:\users\arthu\documents\visual studio 2015\Projects\TextoNoTerminal\TextoNoTerminal\obj\Debug\TextoNoTerminal.csprojResolveAssemblyReference.cache
+c:\users\arthu\documents\visual studio 2015\Projects\TextoNoTerminal\TextoNoTerminal\obj\Debug\TextoNoTerminal.exe
+c:\users\arthu\documents\visual studio 2015\Projects\TextoNoTerminal\TextoNoTerminal\obj\Debug\TextoNoTerminal.pdb
